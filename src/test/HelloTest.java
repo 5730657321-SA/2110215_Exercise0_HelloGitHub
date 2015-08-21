@@ -9,7 +9,7 @@ public class HelloTest {
 
 	@Test
 	public void testGreetingMessage() {
-		assertEquals("Hello GitHub", Hello.greetingMessage());
+		assertEquals("Hello GitH", Hello.greetingMessage());
 	}
 	
 	@Test
